@@ -1,0 +1,51 @@
+[
+    {
+        "image":"https://img.icons8.com/color/480/000000/html-5--v1.png",
+        "name":"HTML"
+    },
+    {
+        "image":"https://img.icons8.com/color/480/000000/css3.png",
+        "name":"CSS"
+    },
+    {
+        "image":"https://img.icons8.com/color/480/000000/javascript--v1.png",
+        "name":"JavaScript"
+    },
+    {
+        "image":"https://img.icons8.com/plasticine/400/000000/react.png",
+        "name":"React"
+    },
+    {
+        "image":"https://img.icons8.com/color/480/000000/typescript.png",
+        "name":"TypeScript"
+    },
+    {
+        "image":"https://img.icons8.com/color/480/000000/bootstrap.png",
+        "name":"Bootstrap"
+    },
+    {
+        "image":"https://img.icons8.com/windows/512/fa314a/bootstrap.png",
+        "name":"React Bootstrap"
+    },
+    {
+        "image":"https://img.icons8.com/color/480/000000/redux.png",
+        "name":"Redux"
+    },
+    {
+        "image":"https://img.icons8.com/ios-filled/50/fa314a/redux.png",
+        "name":"Redux Persist"
+    },
+    {
+        "image":"https://img.icons8.com/color/480/fa314a/nodejs.png",
+        "name":"NodeJs"
+    },
+    {
+        "image":"https://img.icons8.com/color/480/fa314a/mongodb.png",
+        "name":"MongoDB"
+    },
+    {
+        "image":"https://ervinszagars.com/img/EX.png",
+        "name":"Express"
+    }
+
+]
