@@ -41,7 +41,7 @@ li a:hover:not(.active) {
 }
 
 ::-webkit-scrollbar {
-	width: 5px;
+	width: 3px;
 }
 
 ::-webkit-scrollbar-track {
@@ -49,7 +49,7 @@ li a:hover:not(.active) {
 }
 
 ::-webkit-scrollbar-thumb {
-	background: #000;
+	background: #007bff;
 }
 
 ::-webkit-scrollbar-thumb:hover {
