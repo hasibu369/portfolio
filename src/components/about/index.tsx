@@ -32,6 +32,12 @@ export default class About extends Component {
 											breaks it into pieces; solves it efficiently and
 											productively.
 										</p>
+											<p>
+											<h6>Contact</h6>
+											<strong>Email</strong>: hasib_darwish1@protonmail.com
+											<br/>
+											<strong>Linkedin</strong>:https://www.linkedin.com/in/hasib-darwish-737784211
+										</p>
 									</div>
 								</div>
 						</div>
