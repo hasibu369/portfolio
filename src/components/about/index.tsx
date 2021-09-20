@@ -31,6 +31,7 @@ export default class About extends Component {
 												href="https://www.canva.com/design/DAEnxgZ6X1Y/IUhdLuGMoJusjbwJDDwDHw/view?utm_content=DAEnxgZ6X1Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
 												className="btn btn-primary"
 												target="_blank"
+												rel="noreferrer"
 											>
 												CV
 											</a>
