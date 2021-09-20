@@ -22,22 +22,24 @@ export default class About extends Component {
 										<p>
 											Studying at Strive School was a great experience as with
 											the help and support I received, I was able to enrich my
-											technical skills, soft skills and become a Full Stack Web
-											Developer.
+											technical and soft skills and become a Full Stack Developer.
 										</p>
+										
 										<p>
-											I understand the challenge of being a Software Engineer
-											and building complex applications. I am a passionate
-											problem solver who analyses the problem; understands it;
-											breaks it into pieces; solves it efficiently and
-											productively.
-										</p>
-											<p>
-											<h6>Contact</h6>
+											<h3>Contact</h3>
+											<a
+												href="https://www.canva.com/design/DAEnxgZ6X1Y/IUhdLuGMoJusjbwJDDwDHw/view?utm_content=DAEnxgZ6X1Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+												className="btn btn-primary"
+												download
+											>
+												CV
+											</a>
+											<br />
 											<strong>Email</strong>: hasib_darwish1@protonmail.com
-											<br/>
-											<strong>Linkedin</strong>:https://www.linkedin.com/in/hasib-darwish-737784211
-										</p>
+											<br />
+											<strong>Linkedin</strong>
+											:https://www.linkedin.com/in/hasib-darwish-737784211
+										</p>	
 									</div>
 								</div>
 						</div>
