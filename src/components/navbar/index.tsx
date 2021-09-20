@@ -12,7 +12,7 @@ export default class NavigationBar extends Component<{}, NavigationBarState> {
 
 	render() {
 		return (
-			<div className="row p-0 pb-2 bg-primary">
+			<div className="row p-0 pb-3 bg-primary">
 				<ul className="text-decoration-none px-0 ">
 					<div className="me-auto">
 						<li className={this.state.currentTab === "about" ? "active" : ""}>
