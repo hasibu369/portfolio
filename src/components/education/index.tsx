@@ -19,7 +19,7 @@ export default class Education extends Component {
 						<h1>Education</h1>
 						{courses.map((course) => (
 							<div className="row">
-								<hr />
+								<hr className="my-1" />
 								<div className="col-12 col-md-9 col-lg-7 d-flex flex-row justify-content-between">
 									<div className="">
 										<div className="d-flex flex-column">
