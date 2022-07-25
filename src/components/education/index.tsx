@@ -30,13 +30,13 @@ export default class Education extends Component {
 											<span>{course.graduation}</span>
 										</div>
 									</div>
-									<img
+<!-- 									<img
 										src={course.logo}
 										width="auto"
 										height="90"
 										className="icons me-3"
 										alt="organisation logo"
-									/>
+									/> -->
 								</div>
 																<hr className="my-2" />
 
