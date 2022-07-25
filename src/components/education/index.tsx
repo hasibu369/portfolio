@@ -32,10 +32,10 @@ export default class Education extends Component {
 									</div>
 									<img
 										src={course.logo}
-										width="90"
+										width="auto"
 										height="90"
 										className="icons me-3"
-										alt=""
+										alt="organisation logo"
 									/>
 								</div>
 																<hr className="my-2" />
