@@ -36,7 +36,7 @@ export default class About extends Component {
 												CV
 											</a>
 											<br />
-											<strong>Email</strong>: hasibfilthyrich@gmail.com
+											<strong>Email</strong>: hasibu369@gmail.com
 											<br />
 											<strong>Linkedin</strong>
 											:https://www.linkedin.com/in/hasib-darwish-737784211
