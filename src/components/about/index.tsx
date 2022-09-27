@@ -32,6 +32,7 @@ export default class About extends Component {
 												download="HasibullahDarwishCV.pdf"
 												className="btn btn-primary"
 												target="_blank"
+												rel="noreferrer"
 											>
 												Download CV
 											</a>
