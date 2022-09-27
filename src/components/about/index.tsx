@@ -28,12 +28,12 @@ export default class About extends Component {
 										<p>
 											<h3>Contact</h3>
 											<a
-												href="https://www.canva.com/design/DAEnxgZ6X1Y/IUhdLuGMoJusjbwJDDwDHw/view?utm_content=DAEnxgZ6X1Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+												href={process.env.PUBLIC_URL + "/HasibullahDarwishCV.pdf"}
+												download="HasibullahDarwishCV.pdf"
 												className="btn btn-primary"
 												target="_blank"
-												rel="noreferrer"
 											>
-												CV
+												Download CV
 											</a>
 											<br />
 											<strong>Email</strong>: hasibu369@gmail.com
