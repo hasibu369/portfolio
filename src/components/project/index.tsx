@@ -14,13 +14,11 @@ export default class Projects extends Component {
 							</div>
 							<div className="card-body">
 								<p className="card-text">
-									The primary purpose of this project is to tackle the climate
-									change crisis and make the world a better place for the
-									upcoming generations. This app allows user to share their
-									usable spare items with other in their community instead of
-									throwing them to the bin. It reduces the number of useable
-									products that go to landfills each year and the air pollution
-									that cause a lot of diseases.
+									The primary purpose of this project is to tackle the climate change crisis 
+									and make the world a better place for upcoming generations. This app allows users 
+									to share their usable spare items with others in their community instead of throwing 
+									them in the bin. In this way, it reduces the number of useable products that go to landfills 
+									each year and the air pollution that causes a lot of diseases.
 								</p>
 							</div>
 							<div className="card-footer d-flex flex-row justify-content-between">
