@@ -13,16 +13,13 @@ export default class About extends Component {
 									<div className="card-body">
 										<p>Hello!👋 I am Hasib!</p>
 										<p>
-											After finishing my BTEC Level 3 Extended Diploma in IT at
-											Distinction*** and getting offers from various
-											Universities, due to Covid-19 and travel restrictions, I
-											decided to join Strive School and give a shot at virtual
-											learning.
-										</p>
-										<p>
-											Studying at Strive School was a great experience as with
-											the help and support I received, I was able to enrich my
-											technical and soft skills and become a Full Stack Developer.
+											I am a Junior Software Engineer with strong Front End and
+Back End skills. An excellent team player with an eye for
+detail. A self-motivated individual who can work as part of a
+team with a good sense of humour or on his own using his
+initiative. I want to work in an environment where I could
+grow and enrich my skill sets.
+
 										</p>
 										
 										<p>
