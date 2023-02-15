@@ -13,26 +13,17 @@ export default class About extends Component {
 									<div className="card-body">
 										<p>Hello!👋 I am Hasib!</p>
 										<p>
-											I am a Junior Software Engineer with strong Front End and
+											I am a Software Engineer with strong Front End and
 Back End skills. An excellent team player with an eye for
 detail. A self-motivated individual who can work as part of a
 team with a good sense of humour or on his own using his
-initiative. I want to work in an environment where I could
-grow and enrich my skill sets.
+initiative.
 
 										</p>
 										
 										<p>
 											<h3>Contact</h3>
-											<a
-												href={process.env.PUBLIC_URL + "/HasibullahDarwishCV.pdf"}
-												download="HasibullahDarwishCV.pdf"
-												className="btn btn-primary"
-												target="_blank"
-												rel="noreferrer"
-											>
-												Download CV
-											</a>
+											
 											<br />
 											<strong>Email</strong>: hasibu369@gmail.com
 											<br />
