@@ -13,18 +13,16 @@ export default class About extends Component {
 									<div className="card-body">
 										<p>Hello!👋 I am Hasib!</p>
 										<p>
-											I am a Software Engineer with strong Front End and
+I am a Software Engineer with strong Front End and
 Back End skills. An excellent team player with an eye for
 detail. A self-motivated individual who can work as part of a
 team with a good sense of humour or on his own using his
-initiative.
+initiative. Now seeking to secure any opportunity that arrives his way.
 
 										</p>
-										
+										<br />
 										<p>
 											<h3>Contact</h3>
-											
-											<br />
 											<strong>Email</strong>: hasibu369@gmail.com
 											<br />
 											<strong>Linkedin</strong>
