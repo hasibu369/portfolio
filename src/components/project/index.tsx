@@ -57,23 +57,7 @@ export default class Projects extends Component {
 									</a>
 								</button>
 
-								<button className="btn btn-primary">
-									<a
-										href="https://helpsage-frontend.vercel.app/"
-										target="_blank"
-										rel="noreferrer"
-									>
-										<strong className="me-2 text-decoration-none text-white">
-											Demo
-										</strong>
-										<img
-											src="https://img.icons8.com/ios/100/000000/screensharing.png"
-											width="30"
-											height="30"
-											alt="demo"
-										/>
-									</a>
-								</button>
+								
 							</div>
 						</div>
 					</div>
