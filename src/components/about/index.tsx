@@ -67,7 +67,7 @@ export default class About extends Component {
 								<div className="card-body">
 									<img
 										src="https://media.licdn.com/dms/image/D4E03AQFeZkKwclQOAw/profile-displayphoto-shrink_800_800/0/1688508748800?e=1699488000&v=beta&t=3OZy2mFg9aoj1EgFDoOHtKC927sGa7jmQcIn_qpz2Uk"
-										alt="Hasib"
+										alt="profile"
 										className="img-fluid"
 										style={{ borderRadius: "50%" }}
 									/>

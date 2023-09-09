@@ -8,7 +8,7 @@ export default class Projects extends Component {
 					<h1>Projects</h1>
 					<hr />
 					<div className="row">
-						<div className="card bg-info mb-3 col-12 col-md-8 col-lg-7 col-xl-6">
+						<div className="card bg-info mb-3 col-12 col-md-6">
 							<div className="card-header">
 								<h5 className="card-title">HelpSage</h5>
 							</div>
@@ -70,7 +70,7 @@ export default class Projects extends Component {
 							</div>
 						</div>
 
-						<div className="card bg-info mb-3 col-12 col-sm-10 col-md-8 col-lg-7 col-xl-6">
+						<div className="card bg-info mb-3 col-12 col-md-6">
 							<div className="card-header">
 								<h5 className="card-title">Robot on Mars</h5>
 							</div>
@@ -93,8 +93,8 @@ export default class Projects extends Component {
 								bottom left corner and facing North. <br />
 								Robot commands are:
 								<br />“L” or left arrow - 90-degree left rotation 
-								<br /> “R” or right arrow - 90-degree right rotation 
-								<br /> 'F' or up arrow - forward movement by one grid point
+								<br />“R” or right arrow - 90-degree right rotation 
+								<br />"F" or up arrow - forward movement by one grid point
 								</p>
 								<p>
 									<strong>Tech used:</strong>
