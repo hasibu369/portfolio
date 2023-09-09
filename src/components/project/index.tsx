@@ -8,14 +8,22 @@ export default class Projects extends Component {
 					<h1>Projects</h1>
 					<hr />
 					<div className="row">
-						<div className="card bg-info mb-3 col-12 col-sm-10 col-md-8 col-lg-7 col-xl-6">
+						<div className="card bg-info mb-3 col-12 col-md-8 col-lg-7 col-xl-6">
 							<div className="card-header">
 								<h5 className="card-title">HelpSage</h5>
 							</div>
 							<div className="card-body">
 								<p className="card-text">
-									This project was part of my capstone project at Strive, which I developed with the primary objective of addressing climate change and air pollution. The app fosters a sense of communal responsibility, encouraging individuals to share their belongings within their local communities rather than disposing of them carelessly.
-									Helpsage provides functionalities for user registration, login, facilitating the exchange of used items among neighbours, enabling discussions regarding desired products, and showcasing a selection of pre-owned goods available within the community. As a result, helpsage significantly diminishes the volume of used products that find their way into landfills and oceans.
+								This project was part of my capstone project at Strive, which I developed with the primary 
+								objective of addressing climate change and air pollution. The app fosters a sense of communal 
+								responsibility, encouraging individuals to share their belongings within their local communities
+								 rather than disposing of them carelessly.
+								</p>
+								<p>
+								Helpsage provides functionalities for user registration, login, facilitating the exchange of used items 
+								among neighbours, enabling discussions regarding desired products, and showcasing a selection of pre-owned
+								 goods available within the community. As a result, helpsage significantly diminishes the volume of used 
+								 products that find their way into landfills and oceans.
 								</p>
 								<p>
 									<strong>Tech used:</strong>
@@ -64,22 +72,30 @@ export default class Projects extends Component {
 
 						<div className="card bg-info mb-3 col-12 col-sm-10 col-md-8 col-lg-7 col-xl-6">
 							<div className="card-header">
-								<h5 className="card-title">HelpSage</h5>
+								<h5 className="card-title">Robot on Mars</h5>
 							</div>
 							<div className="card-body">
 								<p className="card-text">
-									Robot on Mars
-									This React application is designed to simulate the navigation of a robotic rover on a rectangular plateau situated on Mars, enabling its on-board cameras to capture a comprehensive view of the surroundings and transmit the images back to Earth.
-									The application allows users to move the robot on the plateau grid through commands, visualise its movements and final positions. The rover location is represented by a combination of x and y coordinates, with a letter that designates one of the four cardinal compass points.
-									For example, the rover position might be described as 1, 1, N, signifying its presence at the bottom left corner and facing North.
-									Robot commands are:	
+									
+								This React application is designed to simulate the navigation of a robotic rover on a rectangular plateau 
+								situated on Mars, enabling its on-board cameras to capture a comprehensive view of the surroundings and 
+								transmit the images back to Earth. 
 
 								</p>
-								<ul>
-										<li>“L” or left arrow - 90-degree left rotation</li>
-										<li>“R” or right arrow - 90-degree right rotation</li>
-										<li>'F' or up arrow - forward movement by one grid point</li>
-								</ul>
+								<p className="card-text">
+								The application allows users to move the robot on the plateau grid through commands, visualise 
+								its movements and final positions. The rover location is represented by a combination of x 
+								and y coordinates, with a letter that designates one of the four cardinal compass points. 
+
+								</p>
+								<p className="card-text">
+								For example, the rover position might be described as 1, 1, N, signifying its presence at the 
+								bottom left corner and facing North. <br />
+								Robot commands are:
+								<br />“L” or left arrow - 90-degree left rotation 
+								<br /> “R” or right arrow - 90-degree right rotation 
+								<br /> 'F' or up arrow - forward movement by one grid point
+								</p>
 								<p>
 									<strong>Tech used:</strong>
 									React, React Bootstrap
