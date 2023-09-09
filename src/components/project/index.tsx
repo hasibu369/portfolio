@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React, { Component } from "react";
 
 export default class Projects extends Component {
 	render() {
@@ -14,11 +14,12 @@ export default class Projects extends Component {
 							</div>
 							<div className="card-body">
 								<p className="card-text">
-									The primary purpose of this project is to tackle the climate change crisis 
-									and make the world a better place for upcoming generations. This app allows users 
-									to share their usable spare items with others in their community instead of throwing 
-									them in the bin. In this way, it reduces the number of useable products that go to landfills 
-									each year and the air pollution that causes a lot of diseases.
+									This project was part of my capstone project at Strive, which I developed with the primary objective of addressing climate change and air pollution. The app fosters a sense of communal responsibility, encouraging individuals to share their belongings within their local communities rather than disposing of them carelessly.
+									Helpsage provides functionalities for user registration, login, facilitating the exchange of used items among neighbours, enabling discussions regarding desired products, and showcasing a selection of pre-owned goods available within the community. As a result, helpsage significantly diminishes the volume of used products that find their way into landfills and oceans.
+								</p>
+								<p>
+									<strong>Tech used:</strong>
+									React, Typescript, React-router-dom, React Bootstrap, Redux, Redux-persist, Redux-thunk, Socket.io, Axios, NodeJS, ExpressJS, MongoDB, Jsonwebtoken, Multer, Cloudinary, GitHub auth, Google auth, Cookie-parser, etc…   
 								</p>
 							</div>
 							<div className="card-footer d-flex flex-row justify-content-between">
@@ -57,9 +58,57 @@ export default class Projects extends Component {
 									</a>
 								</button>
 
-								
+
 							</div>
 						</div>
+
+						<div className="card bg-info mb-3 col-12 col-sm-10 col-md-8 col-lg-7 col-xl-6">
+							<div className="card-header">
+								<h5 className="card-title">HelpSage</h5>
+							</div>
+							<div className="card-body">
+								<p className="card-text">
+									Robot on Mars
+									This React application is designed to simulate the navigation of a robotic rover on a rectangular plateau situated on Mars, enabling its on-board cameras to capture a comprehensive view of the surroundings and transmit the images back to Earth.
+									The application allows users to move the robot on the plateau grid through commands, visualise its movements and final positions. The rover location is represented by a combination of x and y coordinates, with a letter that designates one of the four cardinal compass points.
+									For example, the rover position might be described as 1, 1, N, signifying its presence at the bottom left corner and facing North.
+									Robot commands are:	
+
+								</p>
+								<ul>
+										<li>“L” or left arrow - 90-degree left rotation</li>
+										<li>“R” or right arrow - 90-degree right rotation</li>
+										<li>'F' or up arrow - forward movement by one grid point</li>
+								</ul>
+								<p>
+									<strong>Tech used:</strong>
+									React, React Bootstrap
+								</p>
+							</div>
+							<div className="card-footer d-flex flex-row justify-content-between">
+								<button className="btn btn-primary">
+									<a
+										href="https://github.com/hasibu369/marsrobot.git"
+										target="_blank"
+										rel="noreferrer"
+									>
+										<strong className="me-2 text-decoration-none text-white">
+											F/E Code
+										</strong>
+										<img
+											src="https://img.icons8.com/pastel-glyph/100/000000/code--v2.png"
+											width="30"
+											height="30"
+											alt="source code"
+										/>
+									</a>
+								</button>
+
+
+							</div>
+						</div>
+
+
 					</div>
 				</div>
 			</div>
