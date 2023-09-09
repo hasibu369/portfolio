@@ -8,7 +8,7 @@ export default class About extends Component {
 					<h1>About</h1>
 					<hr />
 					<div className="row">
-						<div className="col-md-8 order-2 order-md-1 pe-md-5">
+						<div className="col-md-9 order-2 order-md-1 pe-md-5">
 							<div className="card bg-info">
 								<div className="card-body">
 									<p>Hello!👋 I am Hasib!</p>
@@ -59,7 +59,7 @@ export default class About extends Component {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-4 order-1 order-md-2 p-0">
+						<div className="col-md-3 order-1 order-md-2 p-0">
 							<div className="card bg-info">
 								<div className="card-header text-center bg-secondary">
 									<h5>Hasibullah Darwish</h5>
