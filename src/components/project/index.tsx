@@ -119,6 +119,23 @@ export default class Projects extends Component {
 										/>
 									</a>
 								</button>
+								<button className="btn btn-primary">
+									<a
+										href="https://robotonmars.netlify.app"
+										target="_blank"
+										rel="noreferrer"
+									>
+										<strong className="me-2 text-decoration-none text-white">
+											Live
+										</strong>
+										<img
+											src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/external-live-radio-vitaliy-gorbachev-lineal-vitaly-gorbachev.png"
+											width="30"
+											height="30"
+											alt="source code"
+										/>
+									</a>
+								</button>
 
 
 							</div>
