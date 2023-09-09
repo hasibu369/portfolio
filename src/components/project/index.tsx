@@ -8,7 +8,7 @@ export default class Projects extends Component {
 					<h1>Projects</h1>
 					<hr />
 					<div className="row">
-						<div className="card bg-info mb-3 col-12 col-md-6">
+						<div className="card bg-info mb-3 col-12 col-lg-6">
 							<div className="card-header">
 								<h5 className="card-title">HelpSage</h5>
 							</div>
@@ -70,7 +70,7 @@ export default class Projects extends Component {
 							</div>
 						</div>
 
-						<div className="card bg-info mb-3 col-12 col-md-6">
+						<div className="card bg-info mb-3 col-12 col-lg-6">
 							<div className="card-header">
 								<h5 className="card-title">Robot on Mars</h5>
 							</div>
