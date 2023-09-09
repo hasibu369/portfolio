@@ -5,7 +5,6 @@ interface Course {
 	organization: string;
 	name: string;
 	graduation: string;
-	logo: string;
 }
 
 const courses: Course[] = data;
